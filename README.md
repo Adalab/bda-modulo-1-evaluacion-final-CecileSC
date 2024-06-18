@@ -6,11 +6,11 @@ Objetivo
 
 El objetivo de esta evaluación es demostrar competencias en:
 
-•	Uso de funciones para modularizar y reutilizar el código.
+•	Uso de funciones.
 
-•	Implementación de clases y programación orientada a objetos.
+•	Definición de clases.
 
-•	Utilización de bucles (for y while) para iterar sobre estructuras de datos.
+•	Utilización de bucles (for y while) para iterar sobre datos.
 
 •	Aplicación de condicionales (if, else, elif) para control de flujo.
 
